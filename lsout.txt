@@ -1,0 +1,22 @@
+total 10
+drwxr-xr-x  20 root  wheel   640  1 12 16:19 .
+drwxr-xr-x  20 root  wheel   640  1 12 16:19 ..
+lrwxr-xr-x   1 root  admin    36  1 12 16:19 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+----------   1 root  admin     0  1 12 16:19 .file
+drwxr-xr-x   2 root  wheel    64  1 12 16:19 .vol
+drwxrwxr-x  58 root  admin  1856  6 27 12:31 Applications
+drwxr-xr-x  69 root  wheel  2208  2  5 00:08 Library
+drwxr-xr-x@ 10 root  wheel   320  1 12 16:19 System
+drwxr-xr-x   6 root  admin   192  2  5 00:02 Users
+drwxr-xr-x   3 root  wheel    96  6 27 03:44 Volumes
+drwxr-xr-x@ 39 root  wheel  1248  1 12 16:19 bin
+drwxr-xr-x   2 root  wheel    64  1 25  2021 cores
+dr-xr-xr-x   4 root  wheel  4909  6 19 08:39 dev
+lrwxr-xr-x@  1 root  wheel    11  1 12 16:19 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25  6 19 08:39 home -> /System/Volumes/Data/home
+drwxr-xr-x   4 root  wheel   128  2  6 21:56 opt
+drwxr-xr-x   6 root  wheel   192  6 19 08:39 private
+drwxr-xr-x@ 64 root  wheel  2048  1 12 16:19 sbin
+lrwxr-xr-x@  1 root  wheel    11  1 12 16:19 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352  1 12 16:19 usr
+lrwxr-xr-x@  1 root  wheel    11  1 12 16:19 var -> private/var
